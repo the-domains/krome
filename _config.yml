@@ -6,9 +6,10 @@ color:
   saturation: 0.3001698264852166
   rhythmicContrast: 0.019059175392612815
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Krome
+title: Digital Creative Agency
