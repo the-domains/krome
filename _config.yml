@@ -1,4 +1,3 @@
-layout_spectrum: 0.22943502780981362
 typography_spectrum: 0.8786917554680258
 color:
   brandStrength: 0.6160691655240953
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.22943502780981362
 name: Krome
 title: Digital Creative Agency
+description: Based in Singapore
